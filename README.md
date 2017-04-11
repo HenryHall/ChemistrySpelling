@@ -5,7 +5,7 @@ This is my response to the [Spelling with Chemistry](https://www.reddit.com/r/da
 
 
 
-##Sample Output:
+## Sample Output:
 
 Enter a word that you would like to spell with SI symbols:
 >functions
